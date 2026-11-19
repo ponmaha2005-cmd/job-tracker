@@ -13,5 +13,4 @@ React, Vite, JavaScript, CSS
 
 ## Run Locally
 npm install
-
 npm run dev
