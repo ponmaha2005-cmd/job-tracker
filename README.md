@@ -12,6 +12,7 @@ A React app to track job applications.
 React, Vite, JavaScript, CSS
 
 ## Run Locally
+```
 npm install
-
 npm run dev
+```
